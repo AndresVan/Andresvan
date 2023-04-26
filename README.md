@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresvan&label=Profile%20views&color=0e75b6&style=flat" alt="andresvan" /> </p>
 
+<h2>About me...</h2>
+
+I'm Junior Backend Developer, excited to learn about new programming languages and technologies. I have been working with JavaScript, PHP with Laravel framework; recently I have been studying Java, CMS Drupal, among others. I'm looking for an opportunity to work in technology industry in order to gain experience and improve my skills. 
+
 - 🌱 I’m currently learning **Drupal,Js, Php, node and Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AndresVan](https://github.com/AndresVan)
