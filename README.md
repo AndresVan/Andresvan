@@ -26,5 +26,5 @@ I'm Junior Backend Developer, excited to learn about new programming languages a
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresvan&show_icons=true&locale=en&layout=compact" alt="andresvan" /></p>
 
 <div align="center">
-  <img src="https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif" style="width:100%; height:auto;"/>
+  <img src="https://dplnews.com/wp-content/uploads/2021/09/dplnews_inteligencia-artificial_mc100921.gif" style="width:940px; height:auto;"/>
  </div>
